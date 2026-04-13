@@ -14,5 +14,7 @@ Model Comparison in in lr and rf
 
 Data visualization of prediction results
 
+Use google colab jupyter notebook for building the model
+
 
 
